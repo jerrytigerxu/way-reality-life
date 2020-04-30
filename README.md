@@ -1,7 +1,10 @@
 # Issue
 
-
----
+ - Trying to recreate the blog page structure from https://joshuatz.com/posts/2019/gatsby-automatic-directory-listing-pages-beginners-attempt/
+   - Having multiple sub-folders within the programmatic page structure 
+ - All of the slugs and individual markdown pages are formed
+ - For some reason, the index directory pages aren't being generated even though they are clearly recognized by the program
+   - Specifically, the array `subdirIndexesToCreate` is empty when I check with `console.log`. (Maybe a problem with the `.push()` method?
 
 
 ---
