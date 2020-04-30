@@ -7,7 +7,7 @@
    - Specifically, the array `subdirIndexesToCreate` is empty when I check with `console.log`. (Maybe a problem with the `.push()` method?
    
    
-   ```
+```
   System:
     OS: Linux 5.3 Ubuntu 18.04.4 LTS (Bionic Beaver)
     CPU: (4) x64 Intel(R) Core(TM) i7-3537U CPU @ 2.00GHz
@@ -32,6 +32,7 @@
     gatsby-transformer-sharp: ^2.3.19 => 2.3.19
   npmGlobalPackages:
     gatsby-cli: 2.11.12
+    
 ```
 
 
