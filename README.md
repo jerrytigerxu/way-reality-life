@@ -5,6 +5,34 @@
  - All of the slugs and individual markdown pages are formed
  - For some reason, the index directory pages aren't being generated even though they are clearly recognized by the program
    - Specifically, the array `subdirIndexesToCreate` is empty when I check with `console.log`. (Maybe a problem with the `.push()` method?
+   
+   
+   ```
+  System:
+    OS: Linux 5.3 Ubuntu 18.04.4 LTS (Bionic Beaver)
+    CPU: (4) x64 Intel(R) Core(TM) i7-3537U CPU @ 2.00GHz
+    Shell: 4.4.20 - /bin/bash
+  Binaries:
+    Node: 10.19.0 - ~/.nvm/versions/node/v10.19.0/bin/node
+    npm: 6.13.4 - ~/.nvm/versions/node/v10.19.0/bin/npm
+  Languages:
+    Python: 2.7.17 - /usr/bin/python
+  Browsers:
+    Chrome: 80.0.3987.149
+    Firefox: 75.0
+  npmPackages:
+    gatsby: ^2.19.45 => 2.19.45
+    gatsby-image: ^2.2.44 => 2.2.44
+    gatsby-plugin-manifest: ^2.2.48 => 2.2.48
+    gatsby-plugin-offline: ^3.0.41 => 3.0.41
+    gatsby-plugin-react-helmet: ^3.1.24 => 3.1.24
+    gatsby-plugin-sharp: ^2.4.13 => 2.4.13
+    gatsby-source-filesystem: ^2.1.56 => 2.1.56
+    gatsby-transformer-remark: ^2.7.1 => 2.7.1
+    gatsby-transformer-sharp: ^2.3.19 => 2.3.19
+  npmGlobalPackages:
+    gatsby-cli: 2.11.12
+```
 
 
 ---
