@@ -9,6 +9,17 @@ date: 2020/05/04
   
   If we consider the components of our human being, the parts that make up who we are, we can see a bunch of "being parts" that we could potentially (or already) live by. (When I say "live by", I mean that the feelings or desires within a specific part of our being is what causes us to do certain actions or make certain decisions). What's interesting is that there are differing "levels of badness" that come from living by these parts of our being. Let's list them out.
   
-  ### the flesh 
+  #### the flesh 
   Living by the flesh is obviously the worst thing you can live by.
+  
+  
+  
+  #### the will
+  
+  
+  #### the emotion
+  
+  
+  
+  #### the mind
   
