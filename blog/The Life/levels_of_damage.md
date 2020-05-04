@@ -10,8 +10,13 @@ date: 2020/05/04
   If we consider the components of our human being, the parts that make up who we are, we can see a bunch of "being parts" that we could potentially (or already) live by. (When I say "live by", I mean that the feelings or desires within a specific part of our being is what causes us to do certain actions or make certain decisions). What's interesting is that there are differing "levels of badness" that come from living by these parts of our being. Let's list them out.
   
   #### the flesh 
-  Living by the flesh is obviously the worst thing you can live by.
+  Living by the flesh is obviously the worst thing you can live by. We've seen from Genesis, during the days of Noah, mankind was full of violence and completely living for themselves and doing every wicked thing. The reason why mankind lived this way is because there was nothing governing them. Man had left God and completely disregarded His speaking and the feeling of their conscience, and since there was no law yet, humans lived completely according to the feelings and desires of their fallen human body, their flesh. Even some unbelievers feel that it's not good to live this way, and that's saying something!
   
+  Practically speaking, living by the flesh means to live by the natural desires that come about in our mortal bodies. Many of these desires are created by God, so intrinsically they are good and even holy, but many times we indulge these desires and go way beyond what is normal. What are these desires? These are seemingly normal things like eating, drinking, sleeping, sex, social interaction, physical activity. All of these things are normal and absolutely God-made, but it's extremely dangerous if we LIVE for these things and live by these natural desires, because Satan has corrupted our bodies and formed the flesh, so it's so easy for us to fall into the trap of indulgence and excess. 
+  
+  What happens if we live by our flesh? Simple. We lead a life of sin and even of idolatry. We sow unrest and chaos and cause damage wherever we go, especially when it comes to matters of God. We become slothful and lazy and useless to anyone, even Satan himself. 
+  
+  We need to ask for God's mercy and grace that we would not live according to our flesh.
   
   
   #### the will
