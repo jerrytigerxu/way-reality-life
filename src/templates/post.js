@@ -36,6 +36,7 @@ export default ({ data }) => {
         <Container>
           <div>
             <h1>{ title }</h1>
+            <h3>{ date }</h3>
             <div dangerouslySetInnerHTML={{__html: html }} />
           </div>
         </Container>
@@ -49,6 +50,7 @@ query($slug: String!) {
     html
     frontmatter {
       title
+      date
     }
   }
 }
