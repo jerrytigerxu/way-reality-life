@@ -2,6 +2,8 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import styled from '@emotion/styled';
 
+import Layout from "../components/layout"
+
 
 
 
@@ -23,19 +25,21 @@ export default ({ data }) => {
     title = post.frontmatter.title
   }
 
-  const html = post.html;
+  const html = post.html.replace(/https:\/\/github.com\/jerrytigerxu\/way-reality-life\/(tree|blob)\/master\/blog/g, "").replace(/.md/g, "/");
 
 
 
 
 
   return (
-      <Container>
-        <div>
-          <h1>{ title }</h1>
-          <div dangerouslySetInnerHTML={{__html: html }} />
-        </div>
-      </Container>
+      <Layout>
+        <Container>
+          <div>
+            <h1>{ title }</h1>
+            <div dangerouslySetInnerHTML={{__html: html }} />
+          </div>
+        </Container>
+      </Layout>
   )
 }
 

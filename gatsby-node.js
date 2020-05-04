@@ -4,7 +4,7 @@ const AUTOBUILD_INDEXES = true;
 
 
 
-{/*
+
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
   if (node.internal.type === 'MarkdownRemark') {
@@ -43,9 +43,9 @@ exports.createPages = async ({ graphql, actions }) => {
       })
     })
 }
-*/}
 
 
+{/*
 
 
 
@@ -183,3 +183,8 @@ if (AUTOBUILD_INDEXES){
   });
 }
 }
+
+
+
+
+*/}
