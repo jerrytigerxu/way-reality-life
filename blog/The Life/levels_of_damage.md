@@ -39,8 +39,14 @@ date: 2020/05/04
   Only by the Lord's mercy can we choose not to live by our emotions. This is the true definition of denying the self.
   
   
-  
-  
-  
   #### the mind
   
+  Living by the mind is probably just as prevalent as living by the emotion. It's important to note that as humans we don't tend to live by only ONE of the parts of our being. We could live by multiple, or even all of them, and maybe at differing time periods and frequencies. To live by the mind means that everything has to make sense, be logical, be understandable. When you live by the mind, you are governed by the thoughts that roll into your brain. If you believe something is right, you will stick by that thought even at the expense of understanding others or doing anything that you don't agree with. This is what it means to be subjective, to always insist on your own opinions and your own beliefs. You always have to be right, and if people don't agree with you, you insist they have to be wrong. 
+  
+  Living by the mind makes it impossible for you to consider God's will and follow the Lord's leading. It causes you to be a terrible listener and absolutely useless in comforting or exhorting others, something that is essential in order to serve the Lord. 
+  
+  
+  
+  ---
+  
+  There are many things that we can do apart from the Lord, but almost all of them can be encapsulated in these aspects of our being that we could live by. 
