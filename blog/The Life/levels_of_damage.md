@@ -21,8 +21,24 @@ date: 2020/05/04
   
   #### the will
   
+  To live according to our will means that we always want to be in control. We don't like being told what to do and we especially don't want to be obedient to anyone. This is the exact opposite of the life the Lord Jesus lived on this Earth. He was a Man so meek and so gentle, always seeking the will of the Father and not His own will (John 5:30). 
+  
+  Living by the will causes us to be rebellious and impossible to correct or adjust. It causes us to take pleasure in disobeying authority and closing our ears to any of the healthy teaching. Because the Lord clearly shows us in Deuteronomy 28 that blessing always follows our obedience to Him and that curse follows our disobedience, it is crucial that we don't remain rebellious toward Him. 
+  
+  There have been many examples of severe damage done to the Lord's work and move on this Earth because of people who rebelled against the people God set as the deputy authorities. To rebel against those whom God has set as the spiritual (or earthly) authority is to rebel against God Himself. Let us not strive to be rebellious and stubborn-willed, but realize that the Lord's heart is always good toward us.
+  
   
   #### the emotion
+  
+  This is a big one. I would argue that most people actually live by their emotions. It's pretty obvious what it means to live according to our emotions. If I feel angry, I treat people harshly. If I feel sad, I withdraw from others. If I feel happy, I treat everyone well. If I feel like doing something, I'll do it. If I don't feel like doing something, I won't do it. Do you see how this can easily be exploited by the enemy? It's easy to forget that the feelings of our emotions are just that, feelings. They are sensations from within, as opposed to sensations of our bodies. If you knew that scratching a part of your body would lead to part of your skin to be damaged, would you scratch it? We are not our feelings, and knowing this helps us realize we don't have to be bound by our emotions.
+  
+  The Lord's example shows us that how we feel should not control our actions. Even though He must have experienced countless disappointments and times of suffering, He never once strayed away from the Father's will. Let me be clear, it's OKAY to feel certain things. Paul clearly says "be angry, yet do not sin" (Ephesians 4:26). It's okay to feel anger, but that anger doesn't have to drive you to yell at your spouse or kid. 
+  
+  Living by the emotion is extremely deadly, as it causes us to be very inconsistent and unreliable. One moment we are strong, the next we are cowardly. One moment we treat people with kindness, the next, with malice. When we live by our emotion, it's easy for us to mislead others and even cause serious damage. It can argued that many mental disorders came about because of lack of proper care and because of emotional scars that were inflicted.
+  
+  Only by the Lord's mercy can we choose not to live by our emotions. This is the true definition of denying the self.
+  
+  
   
   
   
