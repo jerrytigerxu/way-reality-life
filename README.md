@@ -66,12 +66,7 @@ Check also the [list of contributors](CONTRIBUTORS.md) who helped on this projec
 * [Travis-CI](travis-ci.org). Another must-have. _Test and Deploy with Confidence_.
 
 ## To-Do :man:
-
-> **[?]** If your project is still in an early release, a to-do list is a good thing to keep track:
-
-- [x] Include something
-- [ ] Another something
-- [ ] So on...
+ - For a list of tasks that still need to be completed, refer to the [project page](https://github.com/jerrytigerxu/way-reality-life/projects)
 
 ## License
 
@@ -79,5 +74,5 @@ Check also the [list of contributors](CONTRIBUTORS.md) who helped on this projec
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [YOUR_NAME_HERE](mailto:YOUR_EMAIL_HERE) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Jere Xu](mailto:jere.tiger.xu@gmail.com) has waived all copyright and related or neighboring rights to this work.
 
