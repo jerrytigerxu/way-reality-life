@@ -30,23 +30,11 @@
 <br>
 <br>
 
-## Installing
-
-> **[?]** So, how users can get this project up and running on their machines?
-
-```sh
-# Describe it in a nice way. Code samples with installation basics works great
-$ npm install --global ghdocs
-$ ghdocs
-```
 
 # Getting Started
 
 > **[?]** What does this project stands for?
 
-## Usage
-
-> **[?]** Tell contributors how to use it.
 
 ## Contributing
 
