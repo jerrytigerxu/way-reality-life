@@ -15,4 +15,4 @@
  
  
  ## Contributing
-  - Suggestions and feedback are welcome! You are also welcome to send in drafts of posts that you would like to have on the WRL site. Please refer to the [guidelines](Contributing.md)
+  - Suggestions and feedback are welcome! You are also welcome to send in drafts of posts that you would like to have on the WRL site. Please refer to the [guidelines](Contributing.md).
