@@ -3,6 +3,7 @@ module.exports = {
     title: `Way Reality Life`,
     description: `A compilation of the many wonderful aspects of Christ and the church`,
     author: `jeretigerxu`,
+    siteUrl: 'http://localhost:8000',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -23,6 +24,25 @@ module.exports = {
       },
     },
     `gatsby-plugin-sharp`,
+    {
+      resolve: 'gatsby-plugin-typography',
+      options: {
+        pathToConfigModule: 'src/utils/typography',
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-breadcrumb',
+      options: {
+        useAutoGen: true,
+        exclude: [
+          '/dev-404-page/',
+          '/404/',
+          '404.html',
+          '/offline-plugin-app-shell-fallback/',
+        ],
+        trailingSlashes: true,
+      }
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

@@ -4,6 +4,10 @@ import styled from '@emotion/styled';
 
 import Layout from "../components/layout"
 
+import { Breadcrumb } from 'gatsby-plugin-breadcrumb'
+
+
+
 
 
 
@@ -18,7 +22,15 @@ const Container = styled.div`
   margin-bottom: 3rem;
 `;
 
-export default ({ data }) => {
+export default ({ pageContext, location, data }) => {
+  const {
+    breadcrumb: { crumbs },
+  } = pageContext
+
+
+
+
+
   const post = data.markdownRemark
   var title = ""
   if (post.frontmatter) {
@@ -32,9 +44,14 @@ export default ({ data }) => {
 
 
   return (
+
       <Layout>
         <Container>
           <div>
+          <Breadcrumb
+            crumbs={crumbs}
+            crumbSeparator="-"
+          />
             <h1>{ title }</h1>
             <div dangerouslySetInnerHTML={{__html: html }} />
           </div>
