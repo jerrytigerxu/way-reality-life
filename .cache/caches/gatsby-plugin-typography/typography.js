@@ -1,1 +1,0 @@
-module.exports = require("/home/jeretigerxu/Documents/Hacker Stuff/personal-projects/way-reality-life/src/utils/typography")

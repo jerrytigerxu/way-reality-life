@@ -2,14 +2,14 @@ var plugins = [{
       plugin: require('/home/jeretigerxu/Documents/Hacker Stuff/personal-projects/way-reality-life/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/jeretigerxu/Documents/Hacker Stuff/personal-projects/way-reality-life/node_modules/gatsby-plugin-typography/gatsby-ssr'),
-      options: {"plugins":[],"pathToConfigModule":"src/utils/typography"},
+      plugin: require('/home/jeretigerxu/Documents/Hacker Stuff/personal-projects/way-reality-life/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/gatsby-icon.png"},
+    },{
+      plugin: require('/home/jeretigerxu/Documents/Hacker Stuff/personal-projects/way-reality-life/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      options: {"plugins":[]},
     },{
       plugin: require('/home/jeretigerxu/Documents/Hacker Stuff/personal-projects/way-reality-life/node_modules/gatsby-plugin-breadcrumb/gatsby-ssr'),
       options: {"plugins":[],"useAutoGen":true,"exclude":["/dev-404-page/","/404/","404.html","/offline-plugin-app-shell-fallback/"],"trailingSlashes":true},
-    },{
-      plugin: require('/home/jeretigerxu/Documents/Hacker Stuff/personal-projects/way-reality-life/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/gatsby-icon.png"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
