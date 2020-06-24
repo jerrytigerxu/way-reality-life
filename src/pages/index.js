@@ -26,7 +26,7 @@ export default ({ data }) => {
 
 export const query = graphql`
   query {
-    allDirectory(filter: {relativeDirectory: {eq: ""}}) {
+    allDirectory(filter: {relativeDirectory: {eq: ""}}, limit: 3) {
     edges {
       node {
         id
