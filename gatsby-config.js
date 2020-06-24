@@ -37,6 +37,13 @@ module.exports = {
         path: `${__dirname}/blog`,
       },
     },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'hidden',
+        path: `${__dirname}/src/hidden`,
+      },
+    },
     `gatsby-plugin-sharp`,
     {
       resolve: 'gatsby-plugin-breadcrumb',
