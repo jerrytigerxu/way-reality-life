@@ -37,7 +37,7 @@ export default ({ pageContext, location, data }) => {
     title = post.frontmatter.title
   }
 
-  const html = post.html.replace(/https:\/\/github.com\/jerrytigerxu\/way-reality-life\/(tree|blob)\/master\/blog/g, "").replace(/.md/g, "/");
+  const html = post.html.replace(/https:\/\/github.com\/jerrytigerxu\/way-reality-life\/(tree|blob)\/((master\/blog)|(master\/src\/hidden))/g, "").replace(/.md/g, "/");
 
 
 
