@@ -18,7 +18,7 @@ human beings in general. The Lord might show you that the way you talk and inter
 twelve years old, is such a pattern to us (Luke 2). The Lord doesn't want us to force ourselves to submit to our parents or to put on a show. There is no genuineness
 there and the Lord is always displeased when we try to do His will without relying on Him as our source for doing it. 
 
-One of the biggest obstacles to having a proper relationship with our parents is [our wild emotion](https://github.com/jerrytigerxu/way-reality-life/blob/master/blog/The%20Life/Levels%20of%20damage.md#the-emotion). The emotion is very difficult to tame and it is the source of 
+One of the biggest obstacles to having a proper relationship with our parents is [our wild emotion](https://github.com/jerrytigerxu/way-reality-life/blob/master/blog/The%20Life/Levels%20of%20damage.md). The emotion is very difficult to tame and it is the source of 
 countless problems among mankind today. [link to "things we should not live by"] Too many people make decisions purely based on how they feel. This allows us
 to be easily manipulated by Satan. If we give a bad attitude when we feel annoyance or we straight up yell when we feel anger, how will we ever be able to have 
 peace with our folks? Do we choose to take certain actions based on the feelings of our soul or from the voice coming from our spirit? When your Mom is nagging you 
