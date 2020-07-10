@@ -9,7 +9,7 @@ const Header = ({ siteTitle }) => (
   >
     <div className="container">
       <div className="navbar-brand">
-        <Link to="/" className="navbar-item ">
+        <Link to="/" className="navbar-item test">
           {siteTitle}
         </Link>
       </div>

@@ -1,5 +1,4 @@
 import React from "react"
-import { css } from "@emotion/core"
 import { Link, graphql } from 'gatsby'
 
 import Layout from "../components/layout"
@@ -8,7 +7,7 @@ import Layout from "../components/layout"
 export default ({ data }) => {
   return (
     <Layout>
-      <div>
+      <div className="main grid">
           {data.allDirectory.edges.map(({ node }) => (
             <div key={node.id}>
               <Link

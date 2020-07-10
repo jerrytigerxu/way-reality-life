@@ -15,4 +15,22 @@
   h1, h2, h3, h4 {
     font-weight: bold;
   }
+
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1r;
+  }
+
+  .grid * {grid-column: 2 / 3; }
+
+
+  .test {
+    font-size: 1.5em;
+  }
+
+  .main {
+    font-size: 3em;
+  }
+
 }
