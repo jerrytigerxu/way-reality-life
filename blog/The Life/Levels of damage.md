@@ -3,18 +3,18 @@ title: Things We Should Not Live By
 date: 2020/05/04
 ---
 
-  As Christians, we all have the responsibility to live out Christ. The apostle Paul said himself that "to live is Christ" (Philippians 1:21) and that it's "no longer I who live, but Christ who lives in me" (Galatians 2:20) Only when we let the life that is in our spirit live itself out are we truly an overcoming and rejoicing people. There is nothing sweeter than living a life of oneness with our dear Lord Jesus!
+  As Christians, we all have the responsibility to live out Christ. The apostle Paul said himself that "to live is Christ" (Philippians 1:21) and that it's "no longer I who live, but Christ who lives in me" (Galatians 2:20) Only when we let the life that is in our spirit live itself out are we truly an overcoming and rejoicing people. There is nothing sweeter than living a life of oneness with our dear Lord Jesus (Psalms 133)!
   
-  We've all heard this before, and a good number of believers have experienced this to some extent. I wonder though, how many of us realize the full extent of how crucial it is for us to live by the spirit and not by anything else? Have we seen just how dangerous it is for us to live by anything other than the Spirit in our spirit? Have we experienced just how grave and sobering this matter is?
+  We've all heard this before, and a good number of Christians have experienced this to some extent. I wonder though, how many of us realize the full extent of how crucial it is for us to live by the spirit and not by anything else? Have we seen just how dangerous it is for us to live by anything other than the Spirit in our spirit? Have we experienced just how grave and sobering this matter is?
   
-  If we consider the components of our human being, the parts that make up who we are, we can see a bunch of "being parts" that we could potentially (or already) live by. (When I say "live by", I mean that the feelings or desires within a specific part of our being is what causes us to do certain actions or make certain decisions). What's interesting is that there are differing "levels of badness" that come from living by these parts of our being. Let's list them out.
+  If we consider the components of our human being, the parts that make up who we are, we can see a bunch of "being parts" that we could potentially (or already) live by. (When I say "live by", I mean that the feelings or desires within a specific part of our being is what causes us to do certain actions or make certain decisions). What's interesting is that there are differing "levels of badness" that come out from living by these parts of our being. Let's list them out.
   
   #### the flesh 
   Living by the flesh is obviously the worst thing you can live by. We've seen from Genesis, during the days of Noah, mankind was full of violence and completely living for themselves and doing every wicked thing (Genesis 6). The reason why mankind lived this way is because there was nothing governing them. Man had left God (Genesis 4:16) and completely disregarded His speaking and the feeling of their conscience, and since there was no law yet, humans lived completely according to the feelings and desires of their fallen human body, their flesh (Romans 1:18-32). Even some unbelievers feel that it's not good to live this way, and that's saying something!
   
   Practically speaking, living by the flesh means to live by the natural desires that come about in our mortal bodies. Many of these desires are created by God, so intrinsically they are good and even holy, but many times we indulge these desires and go way beyond what is normal. What are these desires? These are seemingly normal things like eating, drinking, sleeping, sex, social interaction, physical activity. All of these things are normal and absolutely God-made, but it's extremely dangerous if we LIVE for these things and live by these natural desires, because Satan has corrupted our bodies and formed the flesh, so it's so easy for us to fall into the trap of indulgence and excess. 
   
-  What happens if we live by our flesh? Simple. We lead a life of sin and even of idolatry. We sow unrest and chaos and cause damage wherever we go, especially when it comes to matters of God. We become slothful and lazy and useless to anyone, even Satan himself. 
+  What happens if we live by our flesh? Simple. We lead a life of sin and even of idolatry. We sow unrest and chaos and cause damage wherever we go, especially when it comes to matters of God. We become slothful and lazy and useless to everyone, even Satan himself. 
   
   We need to ask for God's mercy and grace that we would not live according to our flesh.
   
@@ -25,7 +25,7 @@ date: 2020/05/04
   
   Living by the will causes us to be rebellious and impossible to correct or adjust. It causes us to take pleasure in disobeying authority and closing our ears to any of the healthy teaching. Because the Lord clearly shows us in Deuteronomy 28 that blessing always follows our obedience to Him and that curse follows our disobedience, it is crucial that we don't remain rebellious toward Him. 
   
-  There have been many examples of severe damage done to the Lord's work and move on this Earth because of people who rebelled against the people God set as the deputy authorities. To rebel against those whom God has set as the spiritual (or earthly) authority is to rebel against God Himself. Let us not strive to be rebellious and stubborn-willed, but realize that the Lord's heart is always good toward us.
+  There have been many examples of severe damage done to the Lord's work and move on this Earth because of people who rebelled against the people God set as the deputy authorities. To rebel against those whom God has set as the spiritual (or earthly) authority is to rebel against God Himself. Let us not strive to be rebellious and stubborn-willed, but rather realize that the Lord's heart is always good toward us.
   
   
   #### the emotion
