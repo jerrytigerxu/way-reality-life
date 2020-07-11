@@ -11,3 +11,12 @@ date: 2020/07/11
   
   
   \[sdflkjsdfs]
+  
+  
+  The sequence (or cycle) that we need to constantly be in:
+  
+   - We are attracted to the Lord (through His Word or through other saints)
+   - We give ourselves to Him and resolve to do His will
+   - We learn more about ourselves in His light and abhor ourselves
+   - We depend on Him and He adds more of His element to us
+   - Repeat
