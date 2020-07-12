@@ -49,7 +49,7 @@ with the Lord's will.
 
 * Why committing everything to Him is the key to taking up the cross
      * The only way to not live by your natural life (your reactions, your feelings, your concepts, your desires) is to give everything to Him first.
-     * Our motivation for doing this is our love for Him and our seeing of Him.
+     * Our motivation for doing this is our love for Him and our seeking of Him.
      
      
      
