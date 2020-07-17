@@ -7,8 +7,7 @@ In our Christian lives, the more we love the Lord and live in His presence, whic
 how much we don't match Him. It's His will that we would be conformed to His image (Genesis 1:26, Colossians).The Bible clearly teaches that an important 
 result of seeing the Lord and receiving His shining is the revelation of our true condition. [Job abhorring himself, wretched man that I am, Isaiah unclean lips).
 
-As Christians, our responsibility is not to try to be some perfect, holy, good person. The Lord is not looking for people who are simply good and proper, He is looking
-for people who would match Him in life and nature and expression! The only way the Lord can do this is to add more of His element into us day by day. 
+As Christians, our responsibility is not to try to be some perfect, holy, good person. The Lord is not looking for people who are simply good and proper, He is looking for people who would match Him in life and nature and expression! The only way the Lord can do this is to add more of His element into us day by day. \
 
 Through this process of spending time with Him and Him exposing the lack within us, we can clearly see that our very being is contrary to Him (Romans 7). The Lord
 wants to do something in us, yet He will not infringe on our free will, and there are elements in us that simply refuse to do what the Lord wants.
