@@ -14,6 +14,10 @@ import { Breadcrumb } from 'gatsby-plugin-breadcrumb'
 const Container = styled.div`
   h1, h2, h3 {
     text-align: center;
+    margin-bottom: 1em;
+  }
+  p {
+    margin-bottom: 1em;
   }
   display: flex;
   flex-direction: column;
