@@ -31,7 +31,7 @@ will flow in.
 Ideally, you would pray this to the Lord out loud, but if you are in a situation where that's not feasible (like when someone is confronting you directly), you 
 whisper it to the Lord or pray it in your mind. When you're alone, you are free to do whatever it takes to fully release. When I get really angry, I have several
 things I can do. I can find some soft objects like my pillow that I can punch. I can do lots of push-ups or situps to release. I can go into my car and scream and yell and call on the Lord's name. When I'm feeling really sad, I make sure to have some time to myself and I'll shed tears to release my feeling. Don't ever be afraid that the Lord doesn't want to hear your negativity. He can handle it. He's God, so whatever negativity you throw at Him will simply be burned up,
-allowing Him to infuse more peace and joy into you. The more you practice committing everything to the Lord, the more you find that you can stop living according to your soulish feelings. You can make choices that align with the Lord's will.
+allowing Him to infuse more peace and joy into you. The more you practice committing everything to the Lord, the more you find that you can stop living according to your soulish feelings. You can make choices that align with [the Lord's will](https://github.com/jerrytigerxu/way-reality-life/blob/master/blog/The%20Life/Resolve%20to%20do%20His%20will.md).
 
 You will find that your experience of the Lord as peace and joy will enhanced as you really practice giving Him everything in your soul and allowing Him to fill you with His sweet presence and essence.
 
