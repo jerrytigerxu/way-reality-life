@@ -12,8 +12,15 @@ date: 2020/07/11
   
   The sequence (or cycle) that we need to constantly be in follows these basic steps:
   
-   - We are attracted to the Lord (through His Word or through other saints) (2 Corinthians 5:14-15, Jeremiah 31:3, S.S. 1:4)
-   - We give ourselves to Him and resolve to do His will (John 7:17, 1 Sam. 1:11)
-   - We learn more about ourselves in His light and abhor ourselves (Job 42:5-6, John 1:7, Isa. 6:5)
-   - We depend on Him and He adds more of His element to us (John 10:10, 2 Cor. 3:18) 
-   - Repeat
+  ### We are attracted to the Lord (through His Word or through other saints) (2 Corinthians 5:14-15, Jeremiah 31:3, S.S. 1:4)
+  
+  ### We give ourselves to Him and resolve to do His will (John 7:17, 1 Sam. 1:11)
+  
+  ### We learn more about ourselves in His light and abhor ourselves (Job 42:5-6, John 1:7, Isa. 6:5)
+  
+  
+  ### We depend on Him and He adds more of His element to us (John 10:10, 2 Cor. 3:18) 
+
+
+
+  This cycle keeps repeating until we all arrive at our destination (Ephesians 4:13, 2 Thessalonians 1:10). May we strive to stay in this wonderful cycle of life!
