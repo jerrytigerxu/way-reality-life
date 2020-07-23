@@ -14,12 +14,20 @@ date: 2020/07/11
   
   ### We are attracted to the Lord (through His Word or through other saints) (2 Corinthians 5:14-15, Jeremiah 31:3, S.S. 1:4)
   
+  This occurred during our initial salvation, but that doesn't mean our attraction to the Lord is a once-for-all thing. One important factor to any good romance is that there needs to be the constant attracting and re-attracting. Our Lord is invisible (Colossians 1:15), so the way that we are attracted to Him is through the Bible and through the other believers, who are the members of Christ (1 Corinthians 12:27).
+  
   ### We give ourselves to Him and resolve to do His will (John 7:17, 1 Sam. 1:11)
+  
+  The more we love the Lord Jesus, the more we feel that we just have to give ourselves to Him. We are constrained by His love so feel the desire to live completely to Him (2 Corinthians 5:14-15). 
   
   ### We learn more about ourselves in His light and abhor ourselves (Job 42:5-6, John 1:7, Isa. 6:5)
   
+  God is light, so when we contact Him, we will inevitably see the dirtiness within us. The Lord isn't trying to judge us, rather, He simply wants to show us what are the hindering factors.
+  
   
   ### We depend on Him and He adds more of His element to us (John 10:10, 2 Cor. 3:18) 
+  
+  When we see how hopeless we are in our normal human condition, there will be the spontaneous cry within us to ask Him for help and to depend on Him for everything we do. As we depend on Him by living in our spirit, more of His element will be added to us through His spirit.
 
 
 
