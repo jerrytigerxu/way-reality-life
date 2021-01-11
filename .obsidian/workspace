@@ -1,0 +1,82 @@
+{
+  "main": {
+    "id": "34d7bd9a7b7caa17",
+    "type": "split",
+    "children": [
+      {
+        "id": "d487907109b00035",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "blog/The Life/index.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49ca02c711684b70",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c29c9e67385f4e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "483eef41d8276ad1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cb39cf39c795d1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e02004fea15cf41",
+    "type": "split",
+    "children": [
+      {
+        "id": "2485894329c59bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dab15d79ff3ddd71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/The Life/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "blog/The Life/index.md",
+    "blog/README.md"
+  ]
+}
