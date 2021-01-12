@@ -1,2 +1,6 @@
-# Testing the contributing page
-Does this work properly?
+# How To Contribute To WRL
+This I haven't figured out yet, so until then, stay tuned! 
+
+---
+
+Testing stuffs
