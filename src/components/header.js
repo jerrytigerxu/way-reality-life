@@ -12,6 +12,12 @@ const Header = ({ siteTitle }) => (
         <Link to="/" className="navbar-item test">
           {siteTitle}
         </Link>
+        <Link to="/About" className="navbar-item test">
+          About
+        </Link>
+        <Link to="/Contributing" className="navbar-item test">
+          Contributing
+        </Link>
       </div>
 
     </div>
