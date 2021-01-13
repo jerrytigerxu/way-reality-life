@@ -1,0 +1,21 @@
+[
+
+  {
+    "id": 0,
+    "name": "Github",
+    "link": "https://github.com/jerrytigerxu",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 1,
+    "name": "Twitter",
+    "link": "https://twitter.com/jtxxuu",
+    "icon": "/icons/twitter.svg"
+  },
+  {
+    "id": 2,
+    "name": "Instagram",
+    "link": "https://www.instagram.com/jtxxuu",
+    "icon": "/icons/instagram.svg"
+  }
+]

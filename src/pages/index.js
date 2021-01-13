@@ -3,10 +3,6 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from "../components/layout"
 
-
-
-
-
 export default ({ data }) => {
   return (
     <Layout>
@@ -16,12 +12,16 @@ export default ({ data }) => {
                 <Link
                   to={"/" + node.relativePath}
                   >
-                  <h4>{node.relativePath}</h4>
+                  <h1>{node.relativePath}</h1>
                   </Link>
               </div>
             ))}
         </div>
     </Layout>
+
+
+
+
   )
 }
 
